@@ -5,6 +5,7 @@ import (
 	"github.com/nlopes/slack"
 	"io/ioutil"
 	"log"
+	"strings"
 )
 
 func main() {
